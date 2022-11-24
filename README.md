@@ -1,16 +1,16 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Joe&nbsp;Yuyeong%20&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38)
+<div align=center>
+<h3> Hi there 👋, I'm yuyeong  </h3>
+<p>
+  I'm studying SAP. <br>
+</p>
 
-<!--
-**0820jyy/0820jyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">•••</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="blog url"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://newwisdom.tistory.com"/></a>&nbsp
+  <a href="mailto:mail주소"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0820jyy&show_icons=true&theme=buefy)<br>
+</div>
